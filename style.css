@@ -79,6 +79,9 @@ h3, span, p{
     max-width: fit-content;
     padding: 0.25em 0.5em;
 }
+img{
+    transition: padding 0.5s;
+}
 .genre{
     opacity: var(--lowered-opacity);
 }
